@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @robertfloria
-- 👀 I’m interested in web development and learning new things
-- 🌱 I’m currently learning React.js and Node.js better
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-robertfloria/robertfloria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Innovative Software Engineer with 3+ years of experience in building
+scalable web and mobile applications using React.js, React Native
+(Expo), TypeScript, Node.js, ASP.NET Core, and AI-powered features.
+Skilled in CI/CD automation (GitHub Actions, Jenkins), cloud
+deployments (Firebase, Railway, AWS), and containerization (Docker).
+Passionate about delivering high-performance, user-centric solutions
+and driving AI adoption in modern development work
