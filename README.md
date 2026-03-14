@@ -1,3 +1,7 @@
-Innovative Software Engineer with 3.5+ years of experience in building scalable web and mobile applications using React.js, Next.js, React Native (Expo), TypeScript, Node.js, NestJS, ASP.NET Core, and AI-powered features. Skilled in CI/CD automation (GitHub Actions, Jenkins), cloud deployments (Firebase, Railway, AWS), and containerization (Docker). 
-Passionate about delivering high-performance, user-centric solutions and driving AI adoption in
-modern development workflows.
+Full‑Stack Engineer (5+ years) building and shipping production web platforms end‑to‑end (architecture → delivery → 
+CI/CD → ops). Strong TypeScript stack: React/Next.js, Node/NestJS, PostgreSQL/Prisma, REST/GraphQL, with hands-on 
+experience designing modular systems using microservices and reusable frontend architectures. Delivered cloud-native 
+workloads on AWS using Lambda, ECS Fargate, S3, RDS, CloudWatch, and IaC with Terraform, Vercel, Railway. 
+Delivered measurable improvements (~40% workflow automation, ~30% faster deployments) with a production focus 
+on auth, webhooks/idempotency, testing, and observability. Also experienced with AI-enabled product development using 
+LLMs, prompt engineering, OpenAI/Whisper, Claude Code, and GitHub Copilot to accelerate delivery. 
